@@ -1,0 +1,8 @@
+[package]
+name = "unwasting"
+version = "0.1.0"
+edition = "2024"
+repository = "https://github.com/LiaoxyuCM/Unwasting"
+license = "GNU General Public License v3.0"
+
+[dependencies]
